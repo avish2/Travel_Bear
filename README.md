@@ -1,13 +1,5 @@
 # Travel Bear
-## Collaborators:
-
-[avish2](https://github.com/avish2)
-
-[jbcurrie](https://github.com/jbcurrie)
-
-[rbenjamin19](https://github.com/rbenjamin19)
-
-[Wicked001](https://github.com/Wicked001)
+## Collaborators: [Wicked001](https://github.com/Wicked001) | [jbcurrie](https://github.com/jbcurrie) | [avish2](https://github.com/avish2) | [rbenjamin19](https://github.com/rbenjamin19)
 
 # Walkthrough
 
