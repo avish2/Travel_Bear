@@ -16,12 +16,15 @@ alt="IMAGE ALT TEXT HERE" width="480" height="266" border="10" /></a>
 ## Google Maps JavaScript API
 
 * ### Google Places Autocomplete
+
    ![](https://media.giphy.com/media/3ohhwh0F4cRsMQ7wRy/giphy.gif)
 
    Google Place autocomplete provides a typeahead list of cities for users to choose. **Travel**Bear restricted  the search to the US. 
 
 * ### Google Places API
+
    ![](https://media.giphy.com/media/3o7aCV3jZwDjcCrnXi/giphy.gif)
+   
    **Travel**Bear uses the Places API to search for 'lodging' in the selected city, within a pre-determined radius. The resulting JSON data object is used to populate the map coordinates for nearby hotels in the city. 
 
 ## Other Third-Party APIs
