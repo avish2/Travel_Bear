@@ -43,13 +43,13 @@ alt="IMAGE ALT TEXT HERE" width="480" height="266" border="10" /></a>
 
 * ### Weather Underground API
 
-   ![](https://lh3.googleusercontent.com/jyVoKrQAoUtI15RgiXoRTn0dgBYqBxQXmFPOMc79oKjW1dS4J8XseyGmQD2weFFzCUZZh1CxvGXDb2NvoKHwbarOTdVLSBDH5y-bFYubsWaiO8vr04FlT5rFKf5YlM8Ef9tealdwu_VM8824-PMcTqocfUl-JKDf5Fesjf2t-sLoaEG-6KTRqjMa-PHVr5NGf75HDbW4F-DcV3Ey1LpPXic3fG0BJR_dW-zd9cLGkc0yy0JGjX4__7S_-MNt38mrlXUymhXHX_7i-Gx5ZjJYvhEufpcoNU5yFVW3vycNabF9ldRrM8AhJx-ooXdjCou7Oq6CkQrKDUNEja5ePaTQKBXOu-jTqSHk5grqKtZqG0LQD1ejEdjH8-zec19AmrtUAtI_BJqEUA-1gfamj_kVG4uVnpd5OuACdGjazTeJ5_AH8CHguVKNu5UpHvOZDk1kKVVJRoSoQhDOKJTcTM2ZesXF3B1k5HxlCC5b4zB9os9lIWlNT1R1s4lh3bWA7Zzrn-pBvzy-_bKOG37ZVQCq6_FX5Shj0jsAK-9QvlwKTJEp2_sj8dlQrxuEy2gMX5azIytXck8K4aMegAVDE7mAYF9nSgm-jwCAH7nY7YC5pLw=w815-h191-no)
+   ![](https://i.imgur.com/Z8xOzoi.png)
 
    The Weather Underground API searches for weather conditions for the current month, and is used to provide a forecast, and information blurb. 
 
 * ### Google Custom Search Engine
 
-   <img src="https://lh3.googleusercontent.com/s_37UBTfaIGJbO9sUS8lQ0PBvkW7aFl4ZUwrJdmuv3vcSjMOMDvMjGSCap4GaErGS12V-EN-zevNi_TrcuPI2m3koiS8-ikicf_webPfEufGyxil1AxeIISkUdlGn39bXhXZbuw9Fol2xUNMD8E52iuMEqxOXD5nKRUy4I1BmHO9c0nnc2abE7ZdfoDDrZR7f0JK_64gielXwLQZChORtvPEezShxM3xylwN-rA1EUPD31mvC9P9VzhQPmv8GEc_DTFjPN49rSR3mNpl9QKvaMsXyhCKUVU0LE7drhU7h11jtenYahVYMXuXUI08vKMH4yMmzxOQlZsOG3JitOoVi0CI-mMj8faPmZHZK-sNuDrGXNkYmsRbizdPnU57YiLYmXtIIfNPoQMk4l0IvjtcS1nckaWDkNEbZ0lz3B9dlOiAT5qNz9fS1zTGM3-lugDCxXuo9nvlU4DsNdmMuwap_Sd6YX_gaFbzYVuSfbtFrjpzWaY7ech8bK_w9UoyqDgySmDZDrkk6aH2HVQKPikVYZsnlv97JNvq2Xt5S1gyErYUsAO5FpinFMEkxhAADp48sVndO-Mbqvs26hwyGOM4dOIhz0ufBR7uqseTBHCZ8Pc=w854-h483-no" 
+   <img src="https://i.imgur.com/DLsNZlf.png" 
 alt="IMAGE ALT TEXT HERE" width="466" height="263" border="10" />
 
    Using Google's Custom Search Engine, **Travel**Bear displays an array of skyline images for the current city. 
